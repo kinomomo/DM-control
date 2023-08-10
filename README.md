@@ -1,24 +1,52 @@
-# README
+# アプリケーション名  
+DM-control  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要  
+糖尿病患者に向けた食事・運動療法や服薬管理、血糖コントロールをサポートする健康管理アプリ  
 
-Things you may want to cover:
+# デプロイ済みのURL  
+製作途中  
 
-* Ruby version
+# テスト用アカウント、ログインに必要な情報  
+制作途中  
 
-* System dependencies
+# 利用方法  
+ブラウザでアプリを開き、ユーザー登録を行う。食事に関する設定を行うと、設定された情報から糖尿病の程度を判断しおすすめの食事や運動が提案される。他、服薬時間に通知でお知らせ、血糖値記録、体調不良時、緊急連絡先や病歴等の情報入力可能。  
 
-* Configuration
+# アプリケーションを作成した背景  
+このアプリケーションを通じて、糖尿病患者が自宅でも疾患の増悪を防ぐことができるよう健康管理をサポートしたい  
 
-* Database creation
+# 洗い出した要件  
+https://docs.google.com/document/d/13XxPA4Z_GI7R58R2WwqwPGS3EinpJ0H1rEb5BEDvDe0/edit#heading=h.2vrpmk5apt5  
 
-* Database initialization
+# 実装した機能についての画像やGIFおよびその説明  
+制作途中  
 
-* How to run the test suite
+# 実装予定の機能  
+・糖尿病向けレシピの表示、自身で検索もできる機能  
+・自宅で手軽に行える運動のおすすめ表示、自身で検索もできる機能  
+・服薬時間に通知でお知らせする機能  
+・血糖値入力、表で血糖値の推移を確認でき、医師に診てもらう時に提示できる機能  
+・緊急連絡先や病歴等を記載した患者情報ページを設けて、搬送時や体調不良時に周囲の人が確認できる機能  
 
-* Services (job queues, cache servers, search engines, etc.)
+# データベース設計  
+ER図  
+https://gyazo.com/7da6aecff22b067e82d4b508f7561466  
 
-* Deployment instructions
+# 画面遷移図  
+製作途中  
 
-* ...
+# 開発環境で使用した言語・サービス  
+制作途中  
+
+# ローカルでの動作方法(git cloneしてから、ローカルで動作をさせるまでに必要なコマンド)  
+制作途中  
+
+# 制作背景・使用技術・開発方法・タスク管理など、企業へＰＲしたい事柄  
+制作途中  
+
+# より改善するとしたらどこか、それはどのようにしてやるのか  
+制作途中  
+
+# アプリケーションを制作するのにかけた時間  
+制作途中  
