@@ -17,7 +17,7 @@ DM-control
 このアプリケーションを通じて、糖尿病患者が自宅でも疾患の増悪を防ぐことができるよう健康管理をサポートしたい  
 
 # 洗い出した要件  
-https://docs.google.com/document/d/13XxPA4Z_GI7R58R2WwqwPGS3EinpJ0H1rEb5BEDvDe0/edit#heading=h.2vrpmk5apt5  
+https://docs.google.com/spreadsheets/d/1UEFXLh93trx9g966FN4VyPUNJ4_FUIR7-pZwhJ1qti4/edit#gid=982722306
 
 # 実装した機能についての画像やGIFおよびその説明  
 制作途中  
